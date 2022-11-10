@@ -1,0 +1,29 @@
+{
+  "name": "book_flightAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0",
+    "nodemon": "^2.0.16",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techjuggernaut/bookFlightAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/techjuggernaut/bookFlightAPI/issues"
+  },
+  "homepage": "https://github.com/techjuggernaut/bookFlightAPI",
+  "description": ""
+}
