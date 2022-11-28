@@ -1,4 +1,4 @@
-# This is a flight REST API where users can be able to:
+# This is a flight REST API where users can be able to perform CRUD operations. I.e:
 
 <ul> 
 <li> Create a flight </li>
